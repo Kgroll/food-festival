@@ -1,0 +1,31 @@
+{
+  "name": "food-festival",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "webpack": "webpack --watch",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kgroll/food-festival.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kgroll/food-festival/issues"
+  },
+  "homepage": "https://github.com/Kgroll/food-festival#readme",
+  "devDependencies": {
+    "webpack": "^5.32.0",
+    "webpack-cli": "^4.6.0"
+  },
+  "dependencies": {
+    "bootstrap": "^4.6.0",
+    "jquery": "^3.6.0",
+    "node": "^15.12.0",
+    "popper.js": "^1.16.1"
+  }
+}
